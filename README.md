@@ -18,3 +18,4 @@ GPLv2
 Author:
 -------
 keizo042
+# example-cmake-with-cargo
